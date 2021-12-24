@@ -938,3 +938,338 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.24-13.48.55:208][333]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
 [2021.12.24-13.48.55:208][333]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
 [2021.12.24-13.49.04:806][558]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.12.24-14.12.28:011][ 26]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.24-14.12.28:027][ 26]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.24-14.12.44:870][780]LogContentBrowser: Attempting asset rename: NewFolder -> ExternalContent
+[2021.12.24-14.12.44:873][780]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.24-14.12.50:206][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\Death.uasset: Failed to load '/Game/Sounds/Foley/SCue_Foley_Bodyfall': Can't find file.
+[2021.12.24-14.12.50:206][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\Death.uasset: Failed to load '/Game/Sounds/Foley/SCue_Foley_Bodyfall': Can't find file.
+[2021.12.24-14.12.50:207][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\Death.uasset: Failed to load '/Game/Sounds/Foley/SCue_Foley_Bodyfall': Can't find file.
+[2021.12.24-14.12.50:207][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\Death.uasset: Failed to load '/Game/Sounds/Foley/SCue_Foley_Bodyfall': Can't find file.
+[2021.12.24-14.12.50:207][ 80]LoadErrors: Failed to load /Game/Sounds/Foley/SCue_Foley_Bodyfall.SCue_Foley_Bodyfall Referenced by AnimNotify_PlaySound_C_10
+[2021.12.24-14.12.50:211][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/TTP_Animations/Death.Death
+[2021.12.24-14.12.50:211][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\Equip.uasset: Failed to load '/Game/Sounds/Foley/SCue_Foley_SwipeCloth': Can't find file.
+[2021.12.24-14.12.50:211][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\Equip.uasset: Failed to load '/Game/Sounds/Foley/SCue_Foley_SwipeCloth': Can't find file.
+[2021.12.24-14.12.50:211][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\Equip.uasset: Failed to load '/Game/Sounds/Foley/SCue_Foley_SwipeCloth': Can't find file.
+[2021.12.24-14.12.50:212][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\Equip.uasset: Failed to load '/Game/Sounds/Foley/SCue_Foley_SwipeCloth': Can't find file.
+[2021.12.24-14.12.50:212][ 80]LoadErrors: Failed to load /Game/Sounds/Foley/SCue_Foley_SwipeCloth.SCue_Foley_SwipeCloth Referenced by AnimNotify_PlaySound_C_5
+[2021.12.24-14.12.50:225][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\JumpStart.uasset: Failed to load '/Game/Sounds/Foley/SCue_Foley_Jump': Can't find file.
+[2021.12.24-14.12.50:225][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\JumpStart.uasset: Failed to load '/Game/Sounds/Foley/SCue_Foley_Jump': Can't find file.
+[2021.12.24-14.12.50:226][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\JumpStart.uasset: Failed to load '/Game/Sounds/Foley/SCue_Foley_Jump': Can't find file.
+[2021.12.24-14.12.50:226][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\JumpStart.uasset: Failed to load '/Game/Sounds/Foley/SCue_Foley_Jump': Can't find file.
+[2021.12.24-14.12.50:226][ 80]LoadErrors: Failed to load /Game/Sounds/Foley/SCue_Foley_Jump.SCue_Foley_Jump Referenced by AnimNotify_PlaySound_0
+[2021.12.24-14.12.50:234][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/TTP_Animations/Launcher_Reload.Launcher_Reload
+[2021.12.24-14.12.50:234][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\Reload.uasset: Failed to load '/Game/Sounds/Weapons/AssultRifle/SCue_AR_Reload': Can't find file.
+[2021.12.24-14.12.50:234][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\Reload.uasset: Failed to load '/Game/Sounds/Weapons/AssultRifle/SCue_AR_Reload': Can't find file.
+[2021.12.24-14.12.50:234][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\Reload.uasset: Failed to load '/Game/Sounds/Weapons/AssultRifle/SCue_AR_Reload': Can't find file.
+[2021.12.24-14.12.50:235][ 80]LogLinker: Warning: [AssetLog] O:\Work\Projects\TheWayOut\Content\Animations\TTP_Animations\Reload.uasset: Failed to load '/Game/Sounds/Weapons/AssultRifle/SCue_AR_Reload': Can't find file.
+[2021.12.24-14.12.50:235][ 80]LoadErrors: Failed to load /Game/Sounds/Weapons/AssultRifle/SCue_AR_Reload.SCue_AR_Reload Referenced by AnimNotify_PlaySound_0
+[2021.12.24-14.12.53:809][ 80]LogTexture: Display: Building textures: T_Vista_Grass_N (OODLE_BC5, 1024X1024)
+[2021.12.24-14.12.53:810][ 80]LogTexture: Display: Building textures: Chr_FPS_02_M (OODLE_AutoDXT, 2048X2048)
+[2021.12.24-14.12.53:810][ 80]LogTexture: Display: Building textures: Chr_FPS_M (BGRA8, 2048X2048)
+[2021.12.24-14.12.53:810][ 80]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.24-14.12.53:810][ 80]LogTexture: Display: Building textures: T_Sctraches_01 (OODLE_AutoDXT, 2048X2048)
+[2021.12.24-14.12.53:810][ 80]LogTexture: Display: Building textures: Chr_FPS_Fabric_N_01 (OODLE_BC5, 512X512)
+[2021.12.24-14.12.53:810][ 80]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.24-14.12.53:810][ 80]LogTexture: Display: Building textures: Chr_FPS_M_03tga (OODLE_AutoDXT, 2048X2048)
+[2021.12.24-14.12.53:810][ 80]LogTexture: Display: Building textures: Chr_FPS_N (OODLE_BC5, 2048X2048)
+[2021.12.24-14.12.53:810][ 80]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.24-14.12.53:810][ 80]LogTexture: Display: Building textures: Chr_FPS_Metal_01 (OODLE_BC5, 2048X2048)
+[2021.12.24-14.12.53:810][ 80]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.24-14.12.53:810][ 80]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.24-14.12.53:810][ 80]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.24-14.12.53:810][ 80]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.24-14.12.53:810][ 80]LogTexture: Display: Building textures: Chr_FPS_Metal_02 (OODLE_AutoDXT, 2048X2048)
+[2021.12.24-14.12.53:810][ 80]LogTexture: Display: Building textures: Chr_FPS_D (OODLE_AutoDXT, 2048X2048)
+[2021.12.24-14.12.53:810][ 80]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.24-14.12.53:810][ 80]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.24-14.12.53:810][ 80]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.24-14.12.53:810][ 80]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.24-14.12.53:811][ 80]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.24-14.12.53:811][ 80]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.24-14.12.53:811][ 80]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.24-14.12.53:811][ 80]LogMaterial: Display: Missing cached shadermap for HeroTPP in PCD3D_SM5, Default, SM5 (DDC key hash: BB0C250D5A6DB908BA80B77CEFEB9CA274984131), compiling. 
+[2021.12.24-14.12.54:030][ 80]LogShaderCompilers: Display: Submitted 84 shader compile jobs with 'Low' priority
+[2021.12.24-14.12.54:034][ 80]LogSkeletalMesh: Building Skeletal Mesh HeroTPP...
+[2021.12.24-14.12.54:198][ 80]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 84
+[2021.12.24-14.12.54:198][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 74
+[2021.12.24-14.12.54:198][ 80]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 64
+[2021.12.24-14.12.54:198][ 80]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 54
+[2021.12.24-14.12.54:198][ 80]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2021.12.24-14.12.54:198][ 80]LogSkeletalMesh: Built Skeletal Mesh [0.16s] /Game/Characters/HeroTPP/HeroTPP.HeroTPP
+[2021.12.24-14.12.54:512][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/AimOffsetDown6DBC27784D91EFC693D1CDBC046BDDE9.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/AimOffsetDown.uasset'
+[2021.12.24-14.12.54:561][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Idle920D43864179E81873EEA384827C288B.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/Idle.uasset'
+[2021.12.24-14.12.54:619][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/AimOffsetFwd43F5B3D2450470FB713962A8AC8F8C58.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/AimOffsetFwd.uasset'
+[2021.12.24-14.12.54:667][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/AimOffsetLeft585F03AC429651B7F824EE894F7F71B4.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/AimOffsetLeft.uasset'
+[2021.12.24-14.12.54:713][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/AimOffsetLeftDownD57E31CD4AD295B77DC4EBA0461D3B85.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/AimOffsetLeftDown.uasset'
+[2021.12.24-14.12.54:761][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/AimOffsetLeftUpF54874504C5E68F2616E0EAF88DAAD2A.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/AimOffsetLeftUp.uasset'
+[2021.12.24-14.12.54:809][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/AimOffsetRight05497E8048D81CD0033CC3B7F6E3CF95.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/AimOffsetRight.uasset'
+[2021.12.24-14.12.54:861][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/AimOffsetRightDownD9DBD85146317F2236743E87B9BD6EA9.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/AimOffsetRightDown.uasset'
+[2021.12.24-14.12.54:913][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/AimOffsetRightUp0FCB423E493A8661679747A10EABCDA9.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/AimOffsetRightUp.uasset'
+[2021.12.24-14.12.54:962][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/AimOffsetUp940C4F2444300BED5EB423AB66BC5B30.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/AimOffsetUp.uasset'
+[2021.12.24-14.12.55:016][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Death45E68D004AEE2C1BDC4BD5A407BF287A.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/Death.uasset'
+[2021.12.24-14.12.55:101][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Equip64259AF74DB74C8EB4DC3D8E37EA72EA.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/Equip.uasset'
+[2021.12.24-14.12.55:148][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/JumpEnd187782C54984E866F32D588C347DB76A.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/JumpEnd.uasset'
+[2021.12.24-14.12.55:196][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/JumpLoop067E4C69463032413967BE824E501E87.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/JumpLoop.uasset'
+[2021.12.24-14.12.55:249][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/JumpStart4DB17F90464730EAFA3BC4B79DBCB94A.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/JumpStart.uasset'
+[2021.12.24-14.12.55:297][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Launcher_ReloadDB6C2A51420050B67CAA6682FC1F99D0.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/Launcher_Reload.uasset'
+[2021.12.24-14.12.55:489][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/TTP_Animations/Reload.Reload
+[2021.12.24-14.12.55:506][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/ReloadD83E7AED4ED91C9484E7548965AB38BF.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/Reload.uasset'
+[2021.12.24-14.12.55:556][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/RoadieRun_Fwd842BA09946162350B531E59E817DBD41.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/RoadieRun_Fwd.uasset'
+[2021.12.24-14.12.55:609][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Run_Bwd76AF732D4996AD6CDFA434BDADEAB1CB.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/Run_Bwd.uasset'
+[2021.12.24-14.12.55:680][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Run_Fwd161E2CEB4B7A3DFE63417FA30843336E.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/Run_Fwd.uasset'
+[2021.12.24-14.12.55:814][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/TTP_Animations/Run_Lt.Run_Lt
+[2021.12.24-14.12.55:814][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Run_Lt50816AFC4F502B6AFC0080AB6E455FAF.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/Run_Lt.uasset'
+[2021.12.24-14.12.55:920][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/TTP_Animations/Run_Rt.Run_Rt
+[2021.12.24-14.12.55:938][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Run_Rt1D2E18D74288D97867697E9CC0FC004C.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Animations/TTP_Animations/Run_Rt.uasset'
+[2021.12.24-14.12.56:173][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.12.24-14.12.56:197][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.24-14.12.56:207][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.12.24-14.12.56:217][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.24-14.12.56:227][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.24-14.12.56:237][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.24-14.12.56:248][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.12.24-14.12.56:258][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.12.24-14.12.56:268][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.12.24-14.12.56:278][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.12.24-14.12.56:289][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.12.24-14.12.56:300][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.24-14.12.56:314][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.12.24-14.12.56:324][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.12.24-14.12.56:335][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.12.24-14.12.56:345][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.24-14.12.56:354][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.12.24-14.12.56:364][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.12.24-14.12.56:381][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.12.24-14.12.56:390][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.12.24-14.12.56:403][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.12.24-14.12.56:414][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.12.24-14.12.56:438][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.12.24-14.12.56:455][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.12.24-14.12.56:808][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/HeroTPP_Skeleton94CE853945481471175F9D996BD9D301.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/HeroTPP/HeroTPP_Skeleton.uasset'
+[2021.12.24-14.12.56:881][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExternalContent/Characters/HeroTPP/HeroTPP" FILE="../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/HeroTPP/HeroTPP.uasset" SILENT=true
+[2021.12.24-14.12.56:950][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/HeroTPP41DA59DF47A06DBEF648FABFCA4D6926.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/HeroTPP/HeroTPP.uasset'
+[2021.12.24-14.12.57:047][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/HeroTPP_Physics3D54F10945261F5B924940BEF6881E57.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/HeroTPP/HeroTPP_Physics.uasset'
+[2021.12.24-14.12.59:718][ 80]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.12.24-14.12.59:718][ 80]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.00:550][ 80]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.12.24-14.13.00:550][ 80]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.01:172][ 80]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2021.12.24-14.13.01:172][ 80]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.24-14.13.01:380][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2021.12.24-14.13.01:380][ 80]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2021.12.24-14.13.01:380][ 80]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.12.24-14.13.01:380][ 80]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2021.12.24-14.13.01:797][ 80]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.12.24-14.13.01:797][ 80]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2021.12.24-14.13.04:874][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.12.24-14.13.04:874][ 80]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.12.24-14.13.05:116][ 80]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.12.24-14.13.05:116][ 80]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.12.24-14.13.05:950][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.12.24-14.13.05:950][ 80]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.12.24-14.13.05:950][ 80]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.12.24-14.13.05:950][ 80]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.24-14.13.05:994][ 80]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.12.24-14.13.05:994][ 80]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.24-14.13.06:367][ 80]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.12.24-14.13.06:367][ 80]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.24-14.13.07:664][ 80]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.24-14.13.07:664][ 80]LogShaderCompilers: Display: Total job queries 84, among them cache hits 0 (0.00%)
+[2021.12.24-14.13.07:664][ 80]LogShaderCompilers: Display: Tracking 84 distinct input hashes that result in 64 distinct outputs (76.19%)
+[2021.12.24-14.13.07:664][ 80]LogShaderCompilers: Display: RAM used: 0.37 MB (0.00 GB) of 1024.00 MB (1.00 GB) budget. Usage: 0.04%
+[2021.12.24-14.13.07:664][ 80]LogShaderCompilers: Display: ================================================
+[2021.12.24-14.13.07:724][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExternalContent/Characters/Materials/HeroTPP" FILE="../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Materials/HeroTPP.uasset" SILENT=true
+[2021.12.24-14.13.07:751][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/HeroTPP4F6015604C748F2AEF86218BB5C83239.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Materials/HeroTPP.uasset'
+[2021.12.24-14.13.07:825][ 80]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D989F0B38C1B6CC288BED58410D16FA56501D4CD), compiling. 
+[2021.12.24-14.13.07:836][ 80]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.07:847][ 80]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.12.24-14.13.07:847][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.12.24-14.13.07:847][ 80]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.07:890][ 80]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2021.12.24-14.13.07:890][ 80]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.07:890][ 80]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2021.12.24-14.13.07:890][ 80]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.07:972][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/ML_Rubber_light01536A6645281D833D1A9298ED575DF7.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Materials/ML_Rubber_light.uasset'
+[2021.12.24-14.13.07:978][ 80]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A932E3C313465218CE7C362287596390DA1345B4), compiling. 
+[2021.12.24-14.13.07:994][ 80]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.08:052][ 80]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.08:101][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/ML_Rubber_darkFABB0A154B0C48778794B88651585F50.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Materials/ML_Rubber_dark.uasset'
+[2021.12.24-14.13.08:107][ 80]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6434B9F2104CA636C128068545EACB03346C3167), compiling. 
+[2021.12.24-14.13.08:122][ 80]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.08:187][ 80]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.08:260][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/ML_Metal_Painted25C6113446DD8878261DB3A7B2F03A78.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Materials/ML_Metal_Painted.uasset'
+[2021.12.24-14.13.08:266][ 80]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BA50EE6493F22E8C4A3C66927921583FAEB4A785), compiling. 
+[2021.12.24-14.13.08:281][ 80]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.08:357][ 80]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.08:400][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/ML_Metal_light342E5CC040ABA611C890B2BABC8E1A35.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Materials/ML_Metal_light.uasset'
+[2021.12.24-14.13.08:406][ 80]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 037E61F34FE2DC259E9E97C98A3DF5C0F2285E0E), compiling. 
+[2021.12.24-14.13.08:423][ 80]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.08:487][ 80]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.08:521][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExternalContent/Characters/Materials/ML_Glass" FILE="../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Materials/ML_Glass.uasset" SILENT=true
+[2021.12.24-14.13.08:537][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/ML_Glass01F2CC3C495075C7A587A58D0804CA81.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Materials/ML_Glass.uasset'
+[2021.12.24-14.13.08:543][ 80]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F6C0F3678446727BCB5BA42FC008928A51059502), compiling. 
+[2021.12.24-14.13.08:558][ 80]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.08:625][ 80]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.08:627][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.12.24-14.13.08:627][ 80]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.08:672][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/ML_Emissive_Custom894BECD749612E8407E4D0968EC4F457.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Materials/ML_Emissive_Custom.uasset'
+[2021.12.24-14.13.08:680][ 80]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 56E6F0A832C7E832992B61A04D8EA205D15EF53D), compiling. 
+[2021.12.24-14.13.08:696][ 80]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.08:757][ 80]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.08:784][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExternalContent/Characters/Materials/ML_Base" FILE="../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Materials/ML_Base.uasset" SILENT=true
+[2021.12.24-14.13.08:800][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/ML_Base83E8EF8D425FF178E23DC595C9DA8644.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Materials/ML_Base.uasset'
+[2021.12.24-14.13.08:822][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExternalContent/Characters/Textures/Chr_FPS_N" FILE="../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Textures/Chr_FPS_N.uasset" SILENT=true
+[2021.12.24-14.13.08:976][ 80]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.12.24-14.13.08:976][ 80]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.08:976][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Chr_FPS_N9C03D06A473E43DEF1EFD9B2769CC93E.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Textures/Chr_FPS_N.uasset'
+[2021.12.24-14.13.09:264][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Chr_FPS_Metal_02ADDDC1954AA77F86B0C3C397594B1F4E.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Textures/Chr_FPS_Metal_02.uasset'
+[2021.12.24-14.13.09:480][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Chr_FPS_Metal_01D28FB3D44AAFA85529088F9B3D08F57C.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Textures/Chr_FPS_Metal_01.uasset'
+[2021.12.24-14.13.09:646][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Chr_FPS_M_03tga954D81E2416BF49DD7425BB1934AFB64.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Textures/Chr_FPS_M_03tga.uasset'
+[2021.12.24-14.13.09:652][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExternalContent/Characters/Textures/Chr_FPS_M" FILE="../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Textures/Chr_FPS_M.uasset" SILENT=true
+[2021.12.24-14.13.09:700][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Chr_FPS_M707C44D445D25D61A27D8F896D1F3648.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Textures/Chr_FPS_M.uasset'
+[2021.12.24-14.13.09:738][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Chr_FPS_Fabric_N_018379F08443CE9D75E2B6CD872C47CEBA.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Textures/Chr_FPS_Fabric_N_01.uasset'
+[2021.12.24-14.13.09:755][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExternalContent/Characters/Textures/Chr_FPS_D" FILE="../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Textures/Chr_FPS_D.uasset" SILENT=true
+[2021.12.24-14.13.09:877][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Chr_FPS_DF59099D843214F387A384E975335FCD8.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Textures/Chr_FPS_D.uasset'
+[2021.12.24-14.13.09:913][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/Chr_FPS_02_M65E5C76948C13B01888DDDB49C904FE7.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Textures/Chr_FPS_02_M.uasset'
+[2021.12.24-14.13.09:992][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/T_Sctraches_01CD8CB35C4D89FAB6BCFCF9A002E6F95A.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Characters/Textures/Tiles/T_Sctraches_01.uasset'
+[2021.12.24-14.13.10:218][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.12.24-14.13.10:231][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.12.24-14.13.10:242][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.12.24-14.13.10:252][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.12.24-14.13.10:263][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.12.24-14.13.10:273][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.24-14.13.10:284][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.12.24-14.13.10:294][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.12.24-14.13.10:303][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.12.24-14.13.10:312][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.12.24-14.13.10:322][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.24-14.13.10:331][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.12.24-14.13.10:341][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.12.24-14.13.10:350][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.12.24-14.13.10:360][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.24-14.13.10:370][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.12.24-14.13.10:378][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.12.24-14.13.10:389][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.12.24-14.13.10:399][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.12.24-14.13.10:410][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.12.24-14.13.10:434][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.12.24-14.13.10:443][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.12.24-14.13.10:661][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/T_Vista_Grass_N24E885734C7659F74455798F1F7FD995.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Environment/Textures/T_Vista_Grass_N.uasset'
+[2021.12.24-14.13.10:664][ 80]LogSavePackage: Moving '../../../../../../Work/Projects/TheWayOut/Saved/M_BodyDamageC2068B43439F13642BE871B7B7604383.tmp' to '../../../../../../Work/Projects/TheWayOut/Content/ExternalContent/Environment/PhysicalMaterials/M_BodyDamage.uasset'
+[2021.12.24-14.13.10:786][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.12.24-14.13.10:798][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.12.24-14.13.10:826][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.12.24-14.13.10:838][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.12.24-14.13.10:913][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.24-14.13.10:913][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/AimOffsetDown.AimOffsetDown
+[2021.12.24-14.13.10:914][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/Idle.Idle
+[2021.12.24-14.13.10:914][ 80]LogContentValidation: Display: Validating Skeleton /Game/ExternalContent/Characters/HeroTPP/HeroTPP_Skeleton.HeroTPP_Skeleton
+[2021.12.24-14.13.10:914][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/AimOffsetFwd.AimOffsetFwd
+[2021.12.24-14.13.10:914][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/AimOffsetLeft.AimOffsetLeft
+[2021.12.24-14.13.10:914][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/AimOffsetLeftDown.AimOffsetLeftDown
+[2021.12.24-14.13.10:914][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/AimOffsetLeftUp.AimOffsetLeftUp
+[2021.12.24-14.13.10:914][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/AimOffsetRight.AimOffsetRight
+[2021.12.24-14.13.10:914][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/AimOffsetRightDown.AimOffsetRightDown
+[2021.12.24-14.13.10:914][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/AimOffsetRightUp.AimOffsetRightUp
+[2021.12.24-14.13.10:914][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/AimOffsetUp.AimOffsetUp
+[2021.12.24-14.13.10:915][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/Death.Death
+[2021.12.24-14.13.10:915][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/Equip.Equip
+[2021.12.24-14.13.10:915][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/JumpEnd.JumpEnd
+[2021.12.24-14.13.10:915][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/JumpLoop.JumpLoop
+[2021.12.24-14.13.10:915][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/JumpStart.JumpStart
+[2021.12.24-14.13.10:915][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/Launcher_Reload.Launcher_Reload
+[2021.12.24-14.13.10:915][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/Reload.Reload
+[2021.12.24-14.13.10:915][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/RoadieRun_Fwd.RoadieRun_Fwd
+[2021.12.24-14.13.10:915][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/Run_Bwd.Run_Bwd
+[2021.12.24-14.13.10:915][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/Run_Fwd.Run_Fwd
+[2021.12.24-14.13.10:915][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/Run_Lt.Run_Lt
+[2021.12.24-14.13.10:915][ 80]LogContentValidation: Display: Validating AnimSequence /Game/ExternalContent/Animations/TTP_Animations/Run_Rt.Run_Rt
+[2021.12.24-14.13.10:915][ 80]LogContentValidation: Display: Validating Texture2D /Game/ExternalContent/Characters/Textures/Chr_FPS_D.Chr_FPS_D
+[2021.12.24-14.13.10:916][ 80]LogContentValidation: Display: Validating Texture2D /Game/ExternalContent/Environment/Textures/T_Vista_Grass_N.T_Vista_Grass_N
+[2021.12.24-14.13.10:916][ 80]LogContentValidation: Display: Validating MaterialFunction /Game/ExternalContent/Characters/Materials/ML_Base.ML_Base
+[2021.12.24-14.13.10:916][ 80]LogContentValidation: Display: Validating Texture2D /Game/ExternalContent/Characters/Textures/Chr_FPS_02_M.Chr_FPS_02_M
+[2021.12.24-14.13.10:916][ 80]LogContentValidation: Display: Validating Texture2D /Game/ExternalContent/Characters/Textures/Chr_FPS_M.Chr_FPS_M
+[2021.12.24-14.13.10:916][ 80]LogContentValidation: Display: Validating MaterialFunction /Game/ExternalContent/Characters/Materials/ML_Emissive_Custom.ML_Emissive_Custom
+[2021.12.24-14.13.10:916][ 80]LogContentValidation: Display: Validating Texture2D /Game/ExternalContent/Characters/Textures/Tiles/T_Sctraches_01.T_Sctraches_01
+[2021.12.24-14.13.10:916][ 80]LogContentValidation: Display: Validating MaterialFunction /Game/ExternalContent/Characters/Materials/ML_Glass.ML_Glass
+[2021.12.24-14.13.10:916][ 80]LogContentValidation: Display: Validating Texture2D /Game/ExternalContent/Characters/Textures/Chr_FPS_Metal_02.Chr_FPS_Metal_02
+[2021.12.24-14.13.10:916][ 80]LogContentValidation: Display: Validating MaterialFunction /Game/ExternalContent/Characters/Materials/ML_Metal_light.ML_Metal_light
+[2021.12.24-14.13.10:916][ 80]LogContentValidation: Display: Validating Texture2D /Game/ExternalContent/Characters/Textures/Chr_FPS_Metal_01.Chr_FPS_Metal_01
+[2021.12.24-14.13.10:916][ 80]LogContentValidation: Display: Validating MaterialFunction /Game/ExternalContent/Characters/Materials/ML_Metal_Painted.ML_Metal_Painted
+[2021.12.24-14.13.10:916][ 80]LogContentValidation: Display: Validating MaterialFunction /Game/ExternalContent/Characters/Materials/ML_Rubber_dark.ML_Rubber_dark
+[2021.12.24-14.13.10:917][ 80]LogContentValidation: Display: Validating Texture2D /Game/ExternalContent/Characters/Textures/Chr_FPS_Fabric_N_01.Chr_FPS_Fabric_N_01
+[2021.12.24-14.13.10:917][ 80]LogContentValidation: Display: Validating MaterialFunction /Game/ExternalContent/Characters/Materials/ML_Rubber_light.ML_Rubber_light
+[2021.12.24-14.13.10:917][ 80]LogContentValidation: Display: Validating Texture2D /Game/ExternalContent/Characters/Textures/Chr_FPS_M_03tga.Chr_FPS_M_03tga
+[2021.12.24-14.13.10:917][ 80]LogContentValidation: Display: Validating Texture2D /Game/ExternalContent/Characters/Textures/Chr_FPS_N.Chr_FPS_N
+[2021.12.24-14.13.10:917][ 80]LogContentValidation: Display: Validating PhysicalMaterial /Game/ExternalContent/Environment/PhysicalMaterials/M_BodyDamage.M_BodyDamage
+[2021.12.24-14.13.10:917][ 80]LogContentValidation: Display: Validating Material /Game/ExternalContent/Characters/Materials/HeroTPP.HeroTPP
+[2021.12.24-14.13.10:917][ 80]LogContentValidation: Display: Validating SkeletalMesh /Game/ExternalContent/Characters/HeroTPP/HeroTPP.HeroTPP
+[2021.12.24-14.13.10:917][ 80]LogContentValidation: Display: Validating PhysicsAsset /Game/ExternalContent/Characters/HeroTPP/HeroTPP_Physics.HeroTPP_Physics
+[2021.12.24-14.13.11:345][ 96]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.12.24-14.13.11:345][ 96]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.11:394][ 99]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.12.24-14.13.11:394][ 99]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.12:188][136]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.12.24-14.13.12:188][136]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.12:902][170]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.12.24-14.13.12:902][170]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.24-14.13.12:957][173]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 273
+[2021.12.24-14.13.12:957][173]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.13:105][182]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 263
+[2021.12.24-14.13.13:105][182]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.13:753][221]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 253
+[2021.12.24-14.13.13:753][221]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.14:206][248]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 243
+[2021.12.24-14.13.14:206][248]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.18:990][487]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 233
+[2021.12.24-14.13.18:990][487]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.19:096][493]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 223
+[2021.12.24-14.13.19:096][493]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.20:542][564]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 213
+[2021.12.24-14.13.20:542][564]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.21:046][574]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 203
+[2021.12.24-14.13.21:046][574]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.25:472][798]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 193
+[2021.12.24-14.13.25:472][798]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.26:364][847]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 183
+[2021.12.24-14.13.26:365][847]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.28:132][936]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 173
+[2021.12.24-14.13.28:132][936]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.28:225][941]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 163
+[2021.12.24-14.13.28:226][941]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.30:769][ 78]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.24-14.13.32:753][182]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 153
+[2021.12.24-14.13.32:753][182]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.33:857][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 143
+[2021.12.24-14.13.33:857][246]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.35:349][321]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 133
+[2021.12.24-14.13.35:350][321]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.36:654][387]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 123
+[2021.12.24-14.13.36:654][387]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.40:304][553]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 113
+[2021.12.24-14.13.40:304][553]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.42:877][670]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 103
+[2021.12.24-14.13.42:878][670]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.43:822][716]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 93
+[2021.12.24-14.13.43:823][716]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.44:585][756]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 83
+[2021.12.24-14.13.44:585][756]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.48:892][969]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 73
+[2021.12.24-14.13.48:892][969]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.50:125][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 63
+[2021.12.24-14.13.50:125][ 30]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.51:100][ 75]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 53
+[2021.12.24-14.13.51:100][ 75]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.52:221][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2021.12.24-14.13.52:222][135]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.56:811][352]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2021.12.24-14.13.56:811][352]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.58:671][447]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2021.12.24-14.13.58:672][447]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.58:926][461]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.12.24-14.13.58:926][461]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.13.59:212][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.12.24-14.13.59:213][474]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.12.24-14.14.01:270][570]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.12.24-14.14.01:270][570]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
