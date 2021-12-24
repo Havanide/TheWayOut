@@ -6,6 +6,8 @@
 #include "GameFramework/Character.h"
 #include "TWOBaseCharacter.generated.h"
 
+class UCameraComponent;
+
 UCLASS()
 class THEWAYOUT_API ATWOBaseCharacter : public ACharacter
 {
@@ -18,6 +20,9 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Components")
+    UCameraComponent* CameraComponent;
 
 public:	
 	// Called every frame
